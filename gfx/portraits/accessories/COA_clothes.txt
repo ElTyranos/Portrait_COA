@@ -1,0 +1,3 @@
+﻿male_clothes_secular_western_coa_war_nobility_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_western_coa_war_nobility_02_entity }
+}
